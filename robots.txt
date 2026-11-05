@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moorehvacco.com/sitemap.xml
